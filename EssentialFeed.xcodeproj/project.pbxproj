@@ -15,6 +15,7 @@
 		FD42D10D28037E23002321D7 /* FeedLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD42D10C28037E23002321D7 /* FeedLoader.swift */; };
 		FD42D11028037FFB002321D7 /* RemoteFeedLoaderTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD42D10F28037FFB002321D7 /* RemoteFeedLoaderTest.swift */; };
 		FD42D11328038B5D002321D7 /* RemoteFeedLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD42D11228038B5D002321D7 /* RemoteFeedLoader.swift */; };
+		FD9248A8280B184A00431C7D /* HTTPClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD9248A7280B184A00431C7D /* HTTPClient.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,6 +38,7 @@
 		FD42D10C28037E23002321D7 /* FeedLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedLoader.swift; sourceTree = "<group>"; };
 		FD42D10F28037FFB002321D7 /* RemoteFeedLoaderTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteFeedLoaderTest.swift; sourceTree = "<group>"; };
 		FD42D11228038B5D002321D7 /* RemoteFeedLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteFeedLoader.swift; sourceTree = "<group>"; };
+		FD9248A7280B184A00431C7D /* HTTPClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPClient.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 			isa = PBXGroup;
 			children = (
 				FD42D11228038B5D002321D7 /* RemoteFeedLoader.swift */,
+				FD9248A7280B184A00431C7D /* HTTPClient.swift */,
 			);
 			path = "Feed Api";
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 			files = (
 				FD42D11028037FFB002321D7 /* RemoteFeedLoaderTest.swift in Sources */,
 				FD42D11328038B5D002321D7 /* RemoteFeedLoader.swift in Sources */,
+				FD9248A8280B184A00431C7D /* HTTPClient.swift in Sources */,
 				FD42D10028037B9D002321D7 /* EssentialFeedTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
