@@ -1,6 +1,6 @@
 //
 //  HTTPClient.swift
-//  EssentialFeedTests
+//  EssentialFeed
 //
 //  Created by Michael Conchado on 16/04/22.
 //
